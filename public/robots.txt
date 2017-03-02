@@ -1,4 +1,4 @@
-WTF# See http://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
+gWTF# See http://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
 #ent the next two lines:
 # User-agent: *
 # Disallow: /
@@ -13,5 +13,4 @@ fdasdasdasdaksjdashkbfakshfbkashfbaskhfbasKaysser
 sodas
 asd
 asd
-aфпафывфы
-lasjndasndas
+aфпафывфыafsfasdaslasjndasndas
