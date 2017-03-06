@@ -1,3 +1,10 @@
+notifications:
+  webhooks:
+    urls:
+      - https://hooks-aws11g07uds01.dev.glip.net/webhook/67430e06-5e2f-486b-a91d-c481949d1a22
+    on_success: change # default: always
+    on_failure: always # default: always
+    on_start: change   # default: always
 
 notifications:
   webhooks:
