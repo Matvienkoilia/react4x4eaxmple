@@ -1,4 +1,10 @@
-
+notifications:
+  webhooks:
+    urls:
+      - https://hooks-ft3.dev.glip.net/webhook/f87577e3-3d25-4563-ac02-8f24c865283c
+    on_success: change # default: always
+    on_failure: always # default: always
+    on_start: change   # default: always
 notifications:
   webhooks:
     urls:
