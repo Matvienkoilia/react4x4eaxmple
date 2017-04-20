@@ -1,30 +1,7 @@
 notifications:
   webhooks:
     urls:
-      - https://hooks-aws11g07uds05.dev.glip.net/webhook/5edfe726-f4d3-44d8-87b8-d01e2f83c2eb
-    on_success: change # default: always
+      - https://hooks.glipdemo.com/webhook/cd4478bd-3bee-4481-a860-16397ada6798
+    on_success: always # default: always
     on_failure: always # default: always
-    on_start: change   # default: alwayslanguage: ruby
-rvm:
- - 2.2
- - jruby
- - rbx-2
-notifications:
-  webhooks:
-    urls:
-      - https://hooks-aws11g07uds05.dev.glip.net/webhook/3f585072-92db-4e09-bc22-e0edde3a9410
-    on_success: change # default: always
-    on_failure: always # default: always
-    on_start: change   # default: never
-language: ruby
-rvm:
- - 2.2
- - jruby
- - rbx-2
-notifications:
-  webhooks:
-    urls:
-      - https://hooks-aws11g07uds05.dev.glip.net/webhook/3f585072-92db-4e09-bc22-e0edde3a9410
-    on_success: change # default: always
-    on_failure: always # default: always
-    on_start: change   # default: always
+    on_start: always   # default: never

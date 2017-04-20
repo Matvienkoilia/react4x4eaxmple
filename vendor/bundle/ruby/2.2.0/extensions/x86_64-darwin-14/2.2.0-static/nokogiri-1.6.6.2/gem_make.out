@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /Users/ilia.matvienko/.rvm/rubies/ruby-2.2.2/bin/ruby -r ./siteconf20170414-56274-2s0bpm.rb extconf.rb
+=======
+/Users/ilia.matvienko/.rvm/rubies/ruby-2.2.2/bin/ruby -r ./siteconf20170324-94263-xrpy16.rb extconf.rb
+>>>>>>> b46bf8263341b3cd2c1c461b93d0576416842d57
 checking if the C compiler accepts ... yes
 checking if the C compiler accepts -Wno-error=unused-command-line-argument-hard-error-in-future... no
 Building nokogiri using packaged libraries.
@@ -207,4 +211,8 @@ rmdir -p /Users/ilia.matvienko/Documents/projects/react4x4eaxmple/vendor/bundle/
 rm -rf /Users/ilia.matvienko/Documents/projects/react4x4eaxmple/vendor/bundle/ruby/2.2.0/gems/nokogiri-1.6.6.2/ports
 
 make "DESTDIR=" install
+<<<<<<< HEAD
 /usr/bin/install -m 0755 nokogiri.bundle ./.gem.20170414-56274-1gqmjdr/nokogiri
+=======
+/usr/bin/install -m 0755 nokogiri.bundle ./.gem.20170324-94263-1feka6c/nokogiri
+>>>>>>> b46bf8263341b3cd2c1c461b93d0576416842d57

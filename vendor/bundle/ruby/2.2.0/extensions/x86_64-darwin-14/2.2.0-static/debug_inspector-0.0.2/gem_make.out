@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /Users/ilia.matvienko/.rvm/rubies/ruby-2.2.2/bin/ruby -r ./siteconf20170414-56274-zqrfaj.rb extconf.rb
+=======
+/Users/ilia.matvienko/.rvm/rubies/ruby-2.2.2/bin/ruby -r ./siteconf20170324-94263-aypzd3.rb extconf.rb
+>>>>>>> b46bf8263341b3cd2c1c461b93d0576416842d57
 creating Makefile
 
 make "DESTDIR=" clean
@@ -9,4 +13,8 @@ linking shared-object debug_inspector.bundle
 ld: warning: directory not found for option '-L/Users/haven/.sm/pkg/active/lib'
 
 make "DESTDIR=" install
+<<<<<<< HEAD
 /usr/bin/install -m 0755 debug_inspector.bundle ./.gem.20170414-56274-p9lq29
+=======
+/usr/bin/install -m 0755 debug_inspector.bundle ./.gem.20170324-94263-gdfhtn
+>>>>>>> b46bf8263341b3cd2c1c461b93d0576416842d57

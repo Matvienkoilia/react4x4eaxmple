@@ -58,9 +58,15 @@ have_iconv?: checking for iconv... -------------------- yes
 ld: warning: directory not found for option '-L/Users/haven/.sm/pkg/active/lib'
 Undefined symbols for architecture x86_64:
   "_iconv", referenced from:
+<<<<<<< HEAD
       _main in conftest-8e5755.o
   "_iconv_open", referenced from:
       _main in conftest-8e5755.o
+=======
+      _main in conftest-ec909c.o
+  "_iconv_open", referenced from:
+      _main in conftest-ec909c.o
+>>>>>>> b46bf8263341b3cd2c1c461b93d0576416842d57
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:

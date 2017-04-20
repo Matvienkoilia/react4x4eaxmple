@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 23213≈== README
+=======
+231   == README123123qwe123dasddsadasdas
+dasddasdasd
+This README would normally document whatever sdasdteps are necessary to get the
+application up and running.what
+>>>>>>> b46bf8263341b3cd2c1c461b93d0576416842d57
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+Things you may want to cover:312312
 
 * Ruby version
 

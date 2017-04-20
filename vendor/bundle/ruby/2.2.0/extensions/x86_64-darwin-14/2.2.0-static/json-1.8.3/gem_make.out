@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /Users/ilia.matvienko/.rvm/rubies/ruby-2.2.2/bin/ruby -r ./siteconf20170414-56274-1b5n8ch.rb extconf.rb
+=======
+/Users/ilia.matvienko/.rvm/rubies/ruby-2.2.2/bin/ruby -r ./siteconf20170324-94263-191h4fu.rb extconf.rb
+>>>>>>> b46bf8263341b3cd2c1c461b93d0576416842d57
 creating Makefile
 
 make "DESTDIR=" clean

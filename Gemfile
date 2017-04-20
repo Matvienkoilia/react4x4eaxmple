@@ -1,11 +1,14 @@
 source 'https://rubygems.org'
 
-
+gem 'raygun4ruby'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
+<<<<<<< HEAD
 gem "appsignal"
 # Use postgresql as the database for Active Record
 # gem 'pg'
+=======
+>>>>>>> b46bf8263341b3cd2c1c461b93d0576416842d57
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
@@ -16,15 +19,18 @@ gem 'fontawesome-rails'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 gem 'react-rails'
-# Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'rack-cors', :require => 'rack/cors'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
+<<<<<<< HEAD
 #gem 'sdoc', '~> 0.4.0', group: :doc
 #gem 'puma'
+=======
+gem 'sdoc', '~> 0.4.0', group: :doc
+>>>>>>> b46bf8263341b3cd2c1c461b93d0576416842d57
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'feedjira'
