@@ -1,3 +1,3 @@
 notify:
    webhooks:
-     - url:  https://hooks.glip.com/webhook/b1eb760c-00c2-4038-ac74-2b84cb0305bf
+     - url: https://hooks.glipdemo.com/webhook/06198aa1-2187-46a1-88a3-280b9751b8c9
